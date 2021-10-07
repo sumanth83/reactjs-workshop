@@ -1,0 +1,27 @@
+#mobilestore{
+  color:red;
+}
+
+.marquee{
+  color:blue;
+}
+
+.card{
+  display: flex;
+  flex-direction: row;
+}
+
+.cardbody{
+  border:2px solid blue;
+  border-radius: 5%;
+  padding: 2%;
+  margin:1%;
+  text-align:center;
+
+
+}
+
+button{
+  color:blue;
+  background-color: pink;
+}
